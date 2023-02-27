@@ -27,7 +27,7 @@ cd "$SCRIPT_DIR"
 # sudo dnf install python3-tkinter
 
 # If using brew on Mac OS, uncomment line below to install tkinter.
-# brew install python-tk
+brew install python-tk
 
 ####################################################################################
 # Install pip, then Python setuptools if necessary.

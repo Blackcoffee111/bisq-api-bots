@@ -21,7 +21,7 @@ It contains four subprojects:
    package is named for the RPC method call being demonstrated. There are also some mainnet-ready Java API bots in the
    [bisq.bots](https://github.com/bisq-network/bisq-api-reference/tree/main/java-examples/src/main/java/bisq/bots)
    package.
-5. [python-examples](https://github.com/bisq-network/bisq-api-reference/tree/main/python-examples) -- A Python3 project
+4. [python-examples](https://github.com/bisq-network/bisq-api-reference/tree/main/python-examples) -- A Python3 project
    demonstrating how to call the API from Python3 gRPC clients. Each class in
    the  [bisq.rpccalls](https://github.com/bisq-network/bisq-api-reference/tree/main/python-examples/bisq/rpccalls)
    package is named for the RPC method call being demonstrated. There are also some simple (not-ready-for-mainnet) bot
